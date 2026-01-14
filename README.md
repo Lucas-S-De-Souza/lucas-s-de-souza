@@ -1,5 +1,5 @@
-💫 Sobre mim:
-Sou estudante de Tecnologia da Informação, em busca da minha primeira oportunidade na área. Possuo conhecimentos em **C#**, **SQL**, **JavaScript**, **Node.js** e **Kotlin**, com interesse em desenvolvimento de software e aplicações web. Estou sempre aprendendo e buscando evoluir profissionalmente.<br><br>---<br><br>## 😎 Mais sobre mim<br>- 🎓 Estudante de Tecnologia da Informação  <br>- 💻 Conhecimentos em C#, SQL, JavaScript, Node.js e Kotlin  <br>- 🚀 Interesse em desenvolvimento de software e aplicações web  <br>- 📚 Em constante aprendizado  <br>- 🤝 Buscando oportunidade de estágio ou vaga júnior  <br>
+💫 About Me:
+<br>Sou estudante de Tecnologia da Informação, em busca da minha primeira oportunidade na área. Possuo conhecimentos em **C#**, **SQL**, **JavaScript**, **Node.js** e **Kotlin**, com interesse em desenvolvimento de software e aplicações web. Estou sempre aprendendo e buscando evoluir profissionalmente.<br><br>---<br><br> 😎 Mais sobre mim<br>- 🎓 Estudante de Tecnologia da Informação  <br>- 💻 Conhecimentos em C#, SQL, JavaScript, Node.js e Kotlin  <br>- 🚀 Interesse em desenvolvimento de software e aplicações web  <br>- 📚 Em constante aprendizado  <br>- 🤝 Buscando oportunidade de estágio ou vaga júnior  <br>
 
 
 🌐 Socials:
@@ -12,7 +12,10 @@ Sou estudante de Tecnologia da Informação, em busca da minha primeira oportuni
 ![](https://nirzak-streak-stats.vercel.app/?user=lucas-s-de-souza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-s-de-souza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 [![](https://visitcount.itsvg.in/api?id=lucas-s-de-souza&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
