@@ -1,5 +1,7 @@
-💫 About Me:
-<br>Sou estudante de Tecnologia da Informação, em busca da minha primeira oportunidade na área. Possuo conhecimentos em **C#**, **SQL**, **JavaScript**, **Node.js** e **Kotlin**, com interesse em desenvolvimento de software e aplicações web. Estou sempre aprendendo e buscando evoluir profissionalmente.<br><br>---<br><br> 😎 Mais sobre mim<br>- 🎓 Estudante de Tecnologia da Informação  <br>- 💻 Conhecimentos em C#, SQL, JavaScript, Node.js e Kotlin  <br>- 🚀 Interesse em desenvolvimento de software e aplicações web  <br>- 📚 Em constante aprendizado  <br>- 🤝 Buscando oportunidade de estágio ou vaga júnior  <br>
+💫 Sobre mim:
+<br>
+Sou estudante de **Tecnologia da Informação**, em busca da minha primeira oportunidade na área. Possuo conhecimentos em **C#**, **SQL**, **JavaScript**, **Node.js** e **Kotlin**, com interesse em desenvolvimento de software e aplicações web. Estou sempre aprendendo e buscando evoluir profissionalmente.
+.<br><br>---<br><br> 😎 Mais sobre mim<br>- 🎓 Estudante de Tecnologia da Informação  <br>- 💻 Conhecimentos em C#, SQL, JavaScript, Node.js e Kotlin  <br>- 🚀 Interesse em desenvolvimento de software e aplicações web  <br>- 📚 Em constante aprendizado  <br>- 🤝 Buscando oportunidade de estágio ou vaga júnior  <br>
 
 
 🌐 Socials:
