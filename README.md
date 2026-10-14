@@ -1,49 +1,41 @@
-<img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="30px" /> Olá! Seja bem-vindo ao meu perfil
+# Lucas Santana de Souza
 
-## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-santana-394a9b2a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucassantana0503@gmail.com) <br>
+Desenvolvedor web formado em Análise e Desenvolvimento de Sistemas (UNIMES). Foco em front-end com React e Next.js, com experiência prática full stack em TypeScript, Prisma e PostgreSQL. Busco minha primeira oportunidade como desenvolvedor front-end ou full stack júnior.
 
-💫 Sobre mim:
-<br>
+📍 Praia Grande, SP  ·  📚 Estudando React.js e Next.js a fundo (curso na Udemy)
 
-Olá! Sou Lucas, um estudante de **Tecnologia da Informação**, com interesse em desenvolvimento de software e aplicações web. Gosto de transformar ideias em soluções funcionais, buscando sempre código limpo, organizado e escalável.
+## Stack
 
-Tenho conhecimentos em **C#**, **SQL**, **JavaScript**, **Node.js** e **Kotlin**, o que me permite ter contato tanto com o desenvolvimento backend quanto com a lógica de aplicações modernas. Estou em constante aprendizado, sempre explorando novas tecnologias e boas práticas. Com minha formação em andamento na área de TI, estou desenvolvendo projetos práticos para consolidar meus conhecimentos e evoluir constantemente como desenvolvedor.
+**Principal**
 
-<br><br>🤝 Informações Complementares <br>- 🎓 Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Metropolitana de Santos (UNIMES), com previsão de conclusão em 2026.
-  <br>- 💻 Conhecimentos em C#, SQL, JavaScript, Node.js e Kotlin  <br>- 🚀 Interesse em desenvolvimento de software e aplicações web  <br>- 📚 Atualmente aprofundando meus conhecimentos em **React** para construção de interfaces e em **Python** para desenvolvimento de soluções e automação.
- <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-# 💻 Minhas Habilidades:
-🎨 Front-End  
+**Complementar:** HTML e CSS · Java (Spring Boot) · Kotlin · C# · Python · Oracle SQL
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## Projetos em destaque
 
-⚙️ Backend & Mobile
+### [Checkout e painel administrativo para personal trainer](https://github.com/Lucas-S-De-Souza/personal-trainer-platform) — em desenvolvimento
+Assinaturas mensais e trimestrais com Stripe, confirmação de cada cobrança por webhook assinado e painel com métricas de receita recorrente (MRR).
+`Next.js 15` `TypeScript` `Prisma` `PostgreSQL` `Tailwind CSS` `Stripe` `Resend`
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+### [CRUD Full Stack de Produtos](https://github.com/Lucas-S-De-Souza/crud-fullstack-produtos) — em desenvolvimento
+API REST em Java 17 com Spring Boot, documentada com Swagger, e interface em React.
+`Java` `Spring Boot` `JPA` `React` `Vite`
 
-🛠️ Ferramentas & Banco de Dados
+### [Assistente de Games](https://github.com/Lucas-S-De-Souza/assistente-games)
+Responde perguntas sobre o jogo selecionado usando a API do Gemini. Desenvolvido no evento NLW Agents (Rocketseat).
+`JavaScript` `HTML` `CSS` `Gemini API`
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## Contato
 
-
-
-# 📊 Estatísticas:
-![](https://github-readme-stats.vercel.app/api?username=lucas-s-de-souza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lucas-s-de-souza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-s-de-souza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=lucas-s-de-souza&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-s-de-souza/lucas-s-de-souza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-s-de-souza/lucas-s-de-souza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucas-s-de-souza/lucas-s-de-souza/output/pacman-contribution-graph.svg">
-</picture>
+[LinkedIn](https://www.linkedin.com/in/lucas-santana-394a9b2a5) · [E-mail](mailto:lucassantana0503@gmail.com)
 
 
