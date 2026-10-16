@@ -1,27 +1,10 @@
+<p align="center">🇧🇷 <b>Português</b> · 🇺🇸 <a href="https://github.com/Lucas-S-De-Souza/lucas-s-de-souza/blob/main/README.en.md">English</a></p>
+
 # Lucas Santana de Souza
 
 Desenvolvedor web formado em Análise e Desenvolvimento de Sistemas (UNIMES). Foco em front-end com React e Next.js, com experiência prática full stack em TypeScript, Prisma e PostgreSQL. Busco minha primeira oportunidade como desenvolvedor front-end ou full stack júnior.
 
 📍 Praia Grande, SP  ·  📚 Estudando React.js e Next.js a fundo (curso na Udemy)
-
-<details>
-<summary>🇺🇸 <b>Read this in English</b></summary>
-
-<br>
-
-Web developer with a degree in Systems Analysis and Development (UNIMES), focused on front-end development with hands-on full stack experience in TypeScript, Prisma and PostgreSQL. I'm looking for my first opportunity as a junior front-end or full stack developer.
-
-📍 Praia Grande, SP, Brazil  ·  📚 Currently studying React.js and Next.js in depth (Udemy course)
-
-**Featured projects**
-
-- [Checkout and admin panel for a personal trainer](https://github.com/Lucas-S-De-Souza/personal-trainer-platform) (in development): monthly and quarterly subscriptions with Stripe, each charge confirmed by a signed webhook, and a dashboard with monthly recurring revenue (MRR). Next.js 15, TypeScript, Prisma, PostgreSQL, Tailwind CSS, Stripe, Resend.
-- [Full Stack Product CRUD](https://github.com/Lucas-S-De-Souza/crud-fullstack-produtos) (in development): REST API built with Java 17 and Spring Boot, documented with Swagger, with a React front-end.
-- [Games Assistant](https://github.com/Lucas-S-De-Souza/assistente-games): answers questions about a selected game using the Gemini API. Built during Rocketseat's NLW Agents event.
-
-**Contact:** [LinkedIn](https://www.linkedin.com/in/lucas-santana-394a9b2a5) · [Email](mailto:lucassantana0503@gmail.com)
-
-</details>
 
 ## Stack
 
